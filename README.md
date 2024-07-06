@@ -9,7 +9,7 @@ This Hotel Management System is a C++ application designed to manage various ope
 - Manage hotel inventory with add and display functionalities.
 - Add charges to customer bills and process payments with different payment methods.
 - Set room prices based on the floor number.
-## Installation
+## Getting Started
 ```bash
   g++ -o HotelManagementSystem main.cpp
   ./HotelManagementSystem
